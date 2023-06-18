@@ -12,6 +12,7 @@ namespace ConsoleApp63
         {
             string str = "שלום עולם";
             Console.WriteLine(str);
+            //בוצע שינוי//
         }
     }
 }
