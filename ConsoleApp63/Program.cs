@@ -10,7 +10,7 @@ namespace ConsoleApp63
     {
         static void Main(string[] args)
         {
-            string str = "שלום עולם";
+            string str = "היי שלום";
             Console.WriteLine(str);
             //בוצע שינוי//
         }
